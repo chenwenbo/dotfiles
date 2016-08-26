@@ -19,4 +19,4 @@ oh-my-zsh存放custome插件
 
 ![](http://ww2.sinaimg.cn/large/8a0ce11egw1f77b0rh5kej216n0u5jt2.jpg)
 
-![](http://ww4.sinaimg.cn/large/8a0ce11egw1f77b11ykj2j216n0u5jt2.jpg)
+![](http://ww3.sinaimg.cn/large/8a0ce11egw1f77b1nau07j216n0u5wiw.jpg)
