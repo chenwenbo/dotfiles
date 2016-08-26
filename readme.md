@@ -12,7 +12,7 @@ oh-my-zsh存放custome插件
 ### mac install
 
 ### explain
-.minttyrc -- babun font setting 
-.tmux.conf -- tmux setting
-.zshrc -- zsh setting
-vimrc -- vim setting
+* .minttyrc -- babun font setting 
+* .tmux.conf -- tmux setting
+* .zshrc -- zsh setting
+* vimrc -- vim setting
