@@ -7,7 +7,7 @@ pact install pip
 pact install zip
 pact install unzip
 cp .minttyrc ~/
-cp vimrm /etc/vimrc
+cp vimrc /etc/vimrc
 cp .zshrc ~/
 cp .tmux.conf ~/
 git clone git://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
