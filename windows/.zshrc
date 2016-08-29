@@ -87,6 +87,9 @@ source $ZSH/oh-my-zsh.sh
 alias zshconfig="vim ~/.zshrc"
 alias ohmyzsh="vim ~/.oh-my-zsh"
 alias vimconfig="vim /etc/vimrc"
+alias -s txt='vim'
+alias -s md='vim'
+
 # svn
 alias svns='svn status'
 alias svna='svn add --force .'
