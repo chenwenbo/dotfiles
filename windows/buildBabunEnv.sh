@@ -1,5 +1,4 @@
 #!/bin/zsh
-echo "install common app"
 wget https://bootstrap.pypa.io/get-pip.py -O - | python
 pact install tmux
 cp .minttyrc ~/
