@@ -52,7 +52,10 @@ ZSH_THEME="agnoster"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git colored-man z zsh-autosuggestions tmux web-search zsh-syntax-highlighting last-working-dir mvn)
+
+[[ -s ~/.autojump/etc/profile.d/autojump.sh ]] && . ~/.autojump/etc/profile.d/autojump.sh
+
+plugins=(git colored-man z zsh-autosuggestions tmux web-search autojump zsh-syntax-highlighting last-working-dir mvn)
 
 # User configuration
 
