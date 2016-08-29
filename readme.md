@@ -5,10 +5,10 @@ windows目录中存放windows相关dotfiles,mac目录中存放mac相关dotfiles
 
 ### windows install
 
-1. install babun 
-2. run buildBabun.sh
-3. cp fonts to c:windows/fonts
-4. reset babun
+1. install [babun](http://projects.reficio.org/babun/download) 
+2. run windows/buildBabun.sh
+3. 将windows/fonts中的字体拷贝到c:windows/fonts (此处不能通过命令行拷贝）
+4. restart babun
 
 ### mac install
 
