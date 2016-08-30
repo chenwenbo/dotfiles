@@ -17,12 +17,12 @@ windows目录中存放windows相关dotfiles,mac目录中存放mac相关dotfiles
 * .zshrc -- zsh setting
 * vimrc -- vim setting
 
+**refence**
+[babun环境配置](http://www.rxna.cn/post/wiki/babun-pei-zhi)
+
 ![](http://ww2.sinaimg.cn/large/8a0ce11egw1f77b0rh5kej216n0u5jt2.jpg)
 
 ![](http://ww3.sinaimg.cn/large/8a0ce11egw1f77b1nau07j216n0u5wiw.jpg)
-
-**refence**
-[babun环境配置](http://www.rxna.cn/post/wiki/babun-pei-zhi)
 
 ### autoHotKey
 
@@ -51,4 +51,4 @@ windows目录中存放windows相关dotfiles,mac目录中存放mac相关dotfiles
 [下载地址](www.github.com/getlantern/lantern)
 
 ## 公司开发工具链分享
-![工具链](![](http://ww1.sinaimg.cn/large/8a0ce11egw1f7bjmq8xy3j20le0jqack.jpg)
+![](http://ww1.sinaimg.cn/large/8a0ce11egw1f7bjmq8xy3j20le0jqack.jpg)
