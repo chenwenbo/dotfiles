@@ -4,6 +4,7 @@
 windows目录中存放windows相关dotfiles,mac目录中存放mac相关dotfiles
 
 ## windows 
+babun|tmux|tldr|zsh-autosuggestions|zsh-syntax-highlighting
 
 ### windows terminal install
 

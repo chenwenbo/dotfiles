@@ -2,6 +2,8 @@
 wget https://bootstrap.pypa.io/get-pip.py -O - | python
 echo 'install tmux'
 pact install tmux
+echo 'tldr'
+npm install -g tldr
 echo 'cp .minttyrc'
 cp .minttyrc ~/
 echo 'cp vimrc'
