@@ -3,16 +3,15 @@
 此配置文件分为 windwos / mac os 两种
 windows目录中存放windows相关dotfiles,mac目录中存放mac相关dotfiles
 
-### windows install
+## windows 
+
+### windows terminal install
 
 1. install [babun](http://projects.reficio.org/babun/download) 
 2. run windows/buildBabun.sh
 3. 将windows/fonts中的字体拷贝到c:windows/fonts (此处不能通过命令行拷贝）
 4. restart babun
 
-### mac install
-
-### explain
 * .minttyrc -- babun font setting 
 * .tmux.conf -- tmux setting
 * .zshrc -- zsh setting
@@ -22,5 +21,15 @@ windows目录中存放windows相关dotfiles,mac目录中存放mac相关dotfiles
 
 ![](http://ww3.sinaimg.cn/large/8a0ce11egw1f77b1nau07j216n0u5wiw.jpg)
 
-### reference
+**refence**
 [babun环境配置](http://www.rxna.cn/post/wiki/babun-pei-zhi)
+
+### autoHotKey
+
+此份配置文件维护了一些常用的热键
+* shift+ctrl+g : 激活或者隐藏 chrome
+* shft+ctrl+s : 启动sublime text
+* shift+ctrl+c : 复制文件的全路径
+* shift+ctrl+v : 粘贴文件的全路径
+* alt+r : 一键启动工作环境（mysql eclipse qq evernote foxmail...）
+
