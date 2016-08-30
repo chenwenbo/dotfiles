@@ -26,10 +26,29 @@ windows目录中存放windows相关dotfiles,mac目录中存放mac相关dotfiles
 
 ### autoHotKey
 
+[下载地址](https://autohotkey.com/download/ahk-install.exe)
+
+使用方法：将文件中的ahk文件复制到 **/开始菜单/程序/startup中即可
+
 此份配置文件维护了一些常用的热键
+
 * shift+ctrl+g : 激活或者隐藏 chrome
 * shft+ctrl+s : 启动sublime text
 * shift+ctrl+c : 复制文件的全路径
 * shift+ctrl+v : 粘贴文件的全路径
 * alt+r : 一键启动工作环境（mysql eclipse qq evernote foxmail...）
 
+### wox
+
+快速启动、查找文件必备神器,搭配一下插件可以做很多事情
+
+[wox官网](www.getwox.com)
+[个人定制版下载](https://pan.baidu.com/s/1i50P3Wp)
+
+### lantern
+
+掌握科学上网的方法
+[下载地址](www.github.com/getlantern/lantern)
+
+## 公司开发工具链分享
+![工具链](![](http://ww1.sinaimg.cn/large/8a0ce11egw1f7bjmq8xy3j20le0jqack.jpg)
